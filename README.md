@@ -1,1 +1,0 @@
-# remove-garuda-terminal-welcome-message
